@@ -1,0 +1,12 @@
+/* Make sure the body takes the full viewport size */
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+#map {
+    height: 80%;
+    width: 90%;
+    margin: auto;
+}
